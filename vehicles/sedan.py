@@ -11,6 +11,7 @@ import os
 
 # force path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+sys.path.append(r"D:\\beamng\\game_engine\\keybinds")
 
 # config
 x_axis = 0

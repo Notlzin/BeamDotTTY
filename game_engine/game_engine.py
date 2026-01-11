@@ -1,6 +1,5 @@
 # game_engine.py
 import time
-import subprocess
 
 tips_array = ["did you know: this is a terminal only game.", "tip: always control yourself in keybinds.", "stupidly coded in python",
               "notes: you'd have to run everything on your own, just fork, pull to your folder, then play. voila :D"]

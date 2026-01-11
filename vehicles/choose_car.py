@@ -7,6 +7,10 @@ def choose_car(car):
                 print("spawned sedan!")
                 exit()
                 break
+            elif car.startswith("truck"):
+                print("spawned truck!")
+                exit()
+                break
             elif car.startswith("exit"):
                 print("goodbye!!")
                 break
